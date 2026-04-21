@@ -9,6 +9,10 @@ Reasoning Up the Instruction Ladder <br> for Controllable Language Models
     <a href="https://github.com/skai-research/VerIH"><img src="https://img.shields.io/badge/🔗-Code-red"></a>
 </p>
 
+# Use Finetined Checkpoint Directly
+[Qwen3-8B + VerIH](https://huggingface.co/TheToad/Qwen3-8B-VerIH/tree/main)
+
+
 # Training by Youself
 ## Setup
 ```angular2html
