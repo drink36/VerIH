@@ -9,7 +9,11 @@ Reasoning Up the Instruction Ladder <br> for Controllable Language Models
     <a href="https://github.com/skai-research/VerIH"><img src="https://img.shields.io/badge/🔗-Code-red"></a>
 </p>
 
-# Training 
+# Use Finetuned checkpoints Directly
+```
+https://huggingface.co/TheToad/Qwen3VL-8b-IH-text
+```
+# Or Training by Youself
 ## Setup
 ```angular2html
 # if you are using cluster, set cuda to 11.8.0 by
